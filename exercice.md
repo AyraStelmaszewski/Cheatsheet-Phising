@@ -45,7 +45,7 @@
     4) gq@80-78-255-128.cloudvps.regruhosting.ru
     5) Tinder
     6) 80[.]78[.]255[.]128
-    7) match.tinder.com
+    7) match[.]tinder[.]com
     8) ?
     9) It's a phising mail
 
