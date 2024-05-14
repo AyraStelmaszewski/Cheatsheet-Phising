@@ -25,3 +25,8 @@ The mission will be to obtain Alice's or Bob's password
 
 
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/005108f3-2719-4ad8-ae15-395c79c16b8b)
+
+
+![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/e156242a-ffd5-41ef-95dd-dced4104aba6)
+
+![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/62fa94e3-1ab3-4aaf-ba56-370d88119280)
