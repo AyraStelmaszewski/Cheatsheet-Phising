@@ -16,8 +16,8 @@
 **Email 1**
 
     1) 04:57 pm, Mar 20th 2023
-    2) service@paypal.be
-    3) mx1.phx.paypal.com
+    2) No name specified 
+    3) service@paypal.be
     4) mx1.phx.paypal.com
     5) Paypal
     6) 66[.]211[.]170[.]87
@@ -28,14 +28,14 @@
 **Email 2**
 
     1) 09:56 am, Dec 12th 2022
-    2) stainless@midnightmagicevents.com
+    2) noreply
     3) stainless@midnightmagicevents.com
     4) stainless@midnightmagicevents.com
     5) Trust Wallet 
     6) 85[.]209[.]134[.]107
     7) trustvvallet[.]com
     8) ?
-    9) Not a phising mail
+    9) It's a phising mail
 
 **Email 3**
 
