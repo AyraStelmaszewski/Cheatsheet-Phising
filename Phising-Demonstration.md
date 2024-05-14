@@ -1,3 +1,15 @@
+=============================================================================================
+# Challenge
+Bob has a dog (a bull terrier) named "Shimi". Bob really loves his dog <br>
+Alice is a fan of Mécanique. She has two vintage cars and often likes to parade around with her ancestral objects. <br>
+The mission will be to obtain Alice's or Bob's password
+=============================================================================================
+
+## Walkthrough 
+1) Investigate your target and clone the website of an appropriate service.
+2) Link the form on your fake website to one of your databases.
+3) Build a relevant domain for your fake website.
+4) Create a suitable email address based on the chosen domain.
 ### REAL WEBSITE
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/6bd84a36-b455-4a44-b165-185b2b9d4121)
 ### FAKE WEBSITE
