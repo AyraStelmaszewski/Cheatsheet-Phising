@@ -11,3 +11,6 @@
 
 
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/6278d177-74c5-4203-b3a6-ad985ea09565)
+
+
+![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/005108f3-2719-4ad8-ae15-395c79c16b8b)
