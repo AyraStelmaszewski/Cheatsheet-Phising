@@ -1,21 +1,28 @@
 
 # Challenge
-Bob has a dog (a bull terrier) named "Shimi". Bob really loves his dog <br>
 Alice is a fan of Mécanique. She has two vintage cars and often likes to parade around with her ancestral objects. <br>
-The mission will be to obtain Alice's or Bob's password
+The mission will be to obtain Alice password
 
 ## Walkthrough 
-1) Investigate your target and clone the website of an appropriate service.
-2) Link the form on your fake website to one of your databases.
-3) Build a relevant domain for your fake website.
-4) Create a suitable email address based on the chosen domain.
-### REAL WEBSITE
+
+### Real website
+In our simulated case, the attacker will try to obtain the password for 2ememain, a well-known website for selling second-hand items. <br> 
+The attacker will attempt to clone the login page of the targeted website.
+
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/6bd84a36-b455-4a44-b165-185b2b9d4121)
-### FAKE WEBSITE
-    It's not the same result as I copied the html manually and removed js scripts who caused issues. 
-    The goal here is to understand phising metholodoly.
-    To make clone, we could use a few tools already made like Goclone or Social Engineering Toolit.
+
+### Fake website
+For this simulation, we will not attempt to clone the entire website architecture but will focus solely on the login page. We can simply use the inspector tools to copy and paste the HTML and CSS content. Any JavaScript that causes issues can be removed. The page may not be an exact replica, but our goal here is to demonstrate a phishing methodology. If we want to clone an entire website, we can use tools like Goclone or the Social Engineering Toolkit.
+
+### Build a way to store the form data
+
+#### Databases
+An attacker could choose to build a database system to store the data. <br>
+For this demonstration, we'll use a NoSQL database, MongoDB, which is straightforward to integrate into a Flask app.<br>
+Of course, this controller could be improved with features like prefilled email fields, redirection to the real website, or even a redirection and connection with the stolen credentials. <br> 
+However, we'll keep it simple with a blank form and no specific redirection except to the login page.
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/211cb0c4-b230-4148-8fbc-f8577d35dd52)
+
 
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/62fa94e3-1ab3-4aaf-ba56-370d88119280)
 
