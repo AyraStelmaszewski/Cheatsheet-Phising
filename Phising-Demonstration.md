@@ -17,9 +17,9 @@ The mission will be to obtain Alice's or Bob's password
     To make clone we could use fews tools already made like Goclone or Social Engineering Toolit.
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/211cb0c4-b230-4148-8fbc-f8577d35dd52)
 
+![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/62fa94e3-1ab3-4aaf-ba56-370d88119280)
 
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/da4e3c08-c4ac-4f4b-888e-3762cf44df49)
 
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/e156242a-ffd5-41ef-95dd-dced4104aba6)
 
-![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/62fa94e3-1ab3-4aaf-ba56-370d88119280)
