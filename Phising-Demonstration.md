@@ -31,6 +31,16 @@ However, we'll keep it simple with a blank form and no specific redirection exce
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/e156242a-ffd5-41ef-95dd-dced4104aba6)
 
 
+#### HTTP request
+Our attacker could avoid creating a database and instead aim to obtain the credentials directly from the HTTP request when the form is submitted. <br>
+To capture the data, we can simply set the "action" attribute in the form tag to redirect the submission to our server. <br> For this demonstration, we're using webhook.site, a free service that fits well for this purpose.
+
+![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/05e88749-9bde-4596-95af-9143ad07dd44)
+
+![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/b63e9fb0-7e67-4005-a405-e4250baccb87)
+
+![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/57c5fcb2-7501-4575-82df-31ef0d3f3ad5)
+
 ### Fake email
 
 The attacker will need to use a coherent email address to send a malicious email with the goal of tricking the victim into clicking on a fake link. This is the principle of phishing. To achieve this, the attacker will need to spoof the style of an official email to make it look realistic and then create an email address that appears to be an official email from the targeted website. Just like with the login page, we can inspect and replicate the current email style. <br>
@@ -44,8 +54,3 @@ For the demonstration, I used one of my Google accounts with an actual history o
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/44823f2d-21a5-4aba-bb45-aa9a25a82ca6)
 
 
-![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/05e88749-9bde-4596-95af-9143ad07dd44)
-
-![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/b63e9fb0-7e67-4005-a405-e4250baccb87)
-
-![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/57c5fcb2-7501-4575-82df-31ef0d3f3ad5)
