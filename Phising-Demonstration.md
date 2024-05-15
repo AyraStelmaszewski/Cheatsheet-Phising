@@ -30,11 +30,19 @@ However, we'll keep it simple with a blank form and no specific redirection exce
 
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/e156242a-ffd5-41ef-95dd-dced4104aba6)
 
+
+### Fake email
+
+The attacker will need to use a coherent email address to send a malicious email with the goal of tricking the victim into clicking on a fake link. This is the principle of phishing. To achieve this, the attacker will need to spoof the style of an official email to make it look realistic and then create an email address that appears to be an official email from the targeted website. Just like with the login page, we can inspect and replicate the current email style. <br>
+
+For the purpose of this demonstration, I created the email address no_reply_2ememain@fastmail.com. <br>
+Fastmail is a free service that provides email addresses.
+![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/1b044da5-baba-40e7-b2c0-38326e62a0da)
+![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/dc31f3e5-1811-44ea-beff-495c92cd0dbe)
+
+For the demonstration, I used one of my Google accounts with an actual history of emails from the copied service so we can compare our fake email with the official ones.
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/44823f2d-21a5-4aba-bb45-aa9a25a82ca6)
 
-![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/1b044da5-baba-40e7-b2c0-38326e62a0da)
-
-![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/dc31f3e5-1811-44ea-beff-495c92cd0dbe)
 
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/05e88749-9bde-4596-95af-9143ad07dd44)
 
