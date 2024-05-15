@@ -53,4 +53,12 @@ Fastmail is a free service that provides email addresses.
 For the demonstration, I used one of my Google accounts with an actual history of emails from the copied service so we can compare our fake email with the official ones.
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/44823f2d-21a5-4aba-bb45-aa9a25a82ca6)
 
+### Conclusion 
+
+Phishing remains one of the most pervasive and damaging cyber threats faced by individuals and organizations alike. This proof of concept (PoC) illustrates the simplicity with which attackers can mimic legitimate websites, deceive users into divulging sensitive information, and potentially wreak havoc on both personal and corporate security.
+
+The techniques showcased here demonstrate how attackers can exploit the trust users place in familiar websites by crafting convincing replicas of login pages and emails. With just a few simple tools and minimal technical expertise, attackers can trick unsuspecting users into surrendering their credentials, opening the door to a range of malicious activities such as identity theft, financial fraud, and unauthorized access to sensitive data.
+
+For large companies and organizations, the implications of phishing attacks are particularly grave. Not only do they risk compromising the personal information of their users, but they also face the threat of reputational damage, financial loss, and regulatory repercussions. Moreover, as seen in this PoC, even sophisticated security measures can be circumvented by attackers with relative ease.
+
 
