@@ -12,7 +12,7 @@ The attacker will attempt to clone the login page of the targeted website.
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/6bd84a36-b455-4a44-b165-185b2b9d4121)
 
 ### Fake website
-For this simulation, we will not attempt to clone the entire website architecture but will focus solely on the login page. We can simply use the inspector tools to copy and paste the HTML and CSS content. Any JavaScript that causes issues can be removed. The page may not be an exact replica, but our goal here is to demonstrate a phishing methodology. If we want to clone an entire website, we can use tools like Goclone or the Social Engineering Toolkit.
+For this simulation, we will not attempt to clone the entire website architecture but will focus solely on the login page. We can simply use the inspector tools to copy and paste the HTML and CSS content. I'll remove any JavaScript that causes issues , the page may not be an exact replica, but our goal here is to demonstrate a phishing methodology. If we want to clone an entire website, we can use tools like Goclone or the Social Engineering Toolkit.
 
 ![image](https://github.com/AyraStelmaszewski/Cheatsheet-Phising/assets/68444023/211cb0c4-b230-4148-8fbc-f8577d35dd52)
 
